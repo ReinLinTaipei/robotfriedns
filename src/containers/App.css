@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Thank You So Much Font by 7NTypes';
+  font-style: normal;
+  font-weight: bold;
+  src: local('Thank You So Much Font'),
+    url('Thank You So Much Font.otf') format('openType');
+}
+
+@font-face {
+  font-family: 'Brush Hours Font';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Brush Hours Font'), url('Brush Hours Font.otf') format('openType');
+}
+
+h1 {
+  font-family: 'Thank You So Much Font by 7NTypes';
+  /* font-family: 'Brush Hours Font'; */
+  font-weight: 200;
+}
